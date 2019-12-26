@@ -1,2 +1,4 @@
-# touchkeyer
-Arduino based touch key and keyer
+# Arduino Based Touch Key and Keyer
+
+[![Arduino Capacitive Touch Iambic Key Project](https://img.youtube.com/vi/dliTvV1V4XU/0.jpg)](https://www.youtube.com/watch?v=dliTvV1V4XU)
+
